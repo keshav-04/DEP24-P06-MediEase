@@ -176,3 +176,9 @@ VITE_API_URL=
 
 - **PostgreSQL** is used as a primary database for this project along with **Prisma** as an ORM.  
 - **Neon** is used currently for the database services.
+
+## Screen Shots
+
+- ![image](https://github.com/keshav-04/DEP24-P06-MediEase/assets/112396029/f12bf91f-ade7-490c-9696-d02e3b0b2006)
+- ![image](https://github.com/keshav-04/DEP24-P06-MediEase/assets/112396029/7da3256e-2b4b-49c1-8fd5-8217ea952dbf)
+
